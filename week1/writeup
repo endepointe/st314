@@ -1,0 +1,43 @@
+Lesson 1: Intro to Probability
+
+	Probability is needed for determining the liklihood that an event will occur.
+
+	Some of the basic rules for probabiliy are finding the sample space first, then calculating the liklihood that events will occur.
+
+	A complement is the liklihood that an event will not happen.
+
+	Sample space is the total number of possible events. Events are a subset of sample space type. Probability is the liklihood that an event will occur within the sample space.
+
+
+Lesson 2: Set Theory and Probability
+
+	A Venn Diagram is red and blue make purple. two sebsets that produce a smaller subset with the same outcome.
+
+	Set Theory is . It contains the following notation:
+
+		Event - a collection of outcomes within a sample space. (simple-one, compound-many).
+		Sample Space - set of all possible outcomes of that experiment 
+		Intersection - two or more events have the same outcome. A and B 
+		Mutually Exclusive - an intesection has no outcomes. disjoint, null
+		Union - A or B
+		Complement - A' is a complement of A
+
+	Describe Probability using Set Theory
+
+	The General Addition Rule is: P(a) + P(b) - P(a && b)
+
+	Describe Probability using Set Theory
+
+
+Lesson 3: Conditional Probability
+
+	Conditional Probability represents the probability, P, that an event, A, will occur, when another event, B, has occurred. P(A | B) reads "the probability that A will occur when B has occurred.
+
+	Tree diagram illustration
+
+	Multiplication Rule -
+
+	Law of Total Probability - 
+
+	Bayes Theorem - 
+
